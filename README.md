@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'am BK. Welcome to my digital nook. I'm a software developer and content creator from Korea. Here, I share what I've been working on recently and things I've learned along the way.
+Hey, I'am BK. Welcome to my digital nook. I'm a AI software developer and content creator from Korea. Here, I share what I've been working on recently and things I've learned along the way.
 
 
 # 💻 Tech Stack:
